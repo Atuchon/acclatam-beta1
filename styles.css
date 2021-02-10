@@ -193,6 +193,7 @@ ul {
 }
 .nav-main ul li a:hover {
     border-bottom: 2px solid    white;
+    opacity: 0.7;
 }
 
 .nav-main ul.nav-menu {
